@@ -1,4 +1,4 @@
-database = [
+oche_intossicate = [
     { 'id': 1,  'glucosio': 279, 'intossicata': False },
     { 'id': 2,  'glucosio': 340, 'intossicata': False },
     { 'id': 3,  'glucosio': 325, 'intossicata': False },
@@ -16,4 +16,5 @@ database = [
     { 'id': 15, 'glucosio': 318, 'intossicata': True  }
 ]
 
-print(database)
+print(oche_intossicate)
+
