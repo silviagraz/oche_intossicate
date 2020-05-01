@@ -1,0 +1,3 @@
+from oche_ok import oche_intossicate
+
+print(oche_intossicate)

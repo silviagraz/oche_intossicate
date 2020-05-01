@@ -15,6 +15,3 @@ oche_intossicate = [
     { 'id': 14, 'glucosio': 353, 'intossicata': True  },
     { 'id': 15, 'glucosio': 318, 'intossicata': True  }
 ]
-
-print(oche_intossicate)
-
