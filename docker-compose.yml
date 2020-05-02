@@ -1,0 +1,11 @@
+version: '3'
+
+services:
+  oche:
+    image: oche_ok
+    container_name: oche
+    command: tail -F anything
+    build:
+      context: .
+    volumes:
+      - .:/var/oche
