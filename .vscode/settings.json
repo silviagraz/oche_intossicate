@@ -1,7 +1,7 @@
 {
     "python.linting.pylintEnabled": true,
     "python.linting.enabled": true,
-    "python.pythonPath": "/usr/bin/python3",
+    "python.pythonPath": "C:\\Users\\Office\\AppData\\Local\\Programs\\Python\\Python37\\python.exe",
     "python.linting.pylintUseMinimalCheckers": false,
     "python.jediEnabled": false
 }

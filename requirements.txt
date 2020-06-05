@@ -1,1 +1,8 @@
+xlrd
 pylint
+pandas
+matplotlib
+seaborn
+# functools
+statsmodels
+scipy
